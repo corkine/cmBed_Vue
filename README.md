@@ -5,3 +5,7 @@
 前段部分采用 Vue 和 Element UI 实现，包括一个简单的上传组件、通知系统，使用了 Clipboard 这个粘贴到剪贴板的小工具实现点击粘贴功能。
 
 2019年02月11日 @ Corkine Ma
+
+程序运行示意图：
+
+![](http://static2.mazhangjing.com/20190211/fe491b6_cm_image2019-02-1119.58.50.png)
