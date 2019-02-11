@@ -1,21 +1,7 @@
-# bed
+# 小 🐴 图床 - 前端部分
 
-> A Vue.js project
+这是我用于练手的一个项目，一个简单的图床站，只用于上传图片到阿里云，之后获取网址。
 
-## Build Setup
+前段部分采用 Vue 和 Element UI 实现，包括一个简单的上传组件、通知系统，使用了 Clipboard 这个粘贴到剪贴板的小工具实现点击粘贴功能。
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+2019年02月11日 @ Corkine Ma
